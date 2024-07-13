@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.container {
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1140px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+h1 {
+    color: #1E0E62;
+    padding-top: 30px;
+    font-family: "DM Sans", sans-serif;
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: center;
+
+}
+
+.overflow {
+    overflow-x: auto;
+}
+
+.overflow-x-auto {
+    overflow-x: auto;
+}
+
+table,
+td {
+    border: 2px solid #e1e1e3;
+    border-collapse: collapse;
+    padding: 20px;
+
+}
+
+.heading {
+    background: #EBEAED;
+    color: rgba(30, 14, 98, 1);
+
+
+}
+
+h2 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #1E0E62;
+    padding-bottom: 5px;
+}
+
+.para {
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(30, 14, 98, 1);
+
+
+}
+
+
+tr {
+    text-align: center;
+}
+
+.heading-2 {
+    font-family: "DM Sans", sans-serif;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    color: rgba(21, 20, 57, 0.4);
+
+}
+
+.number {
+    font-family: "DM Sans", sans-serif;
+    font-size: 58px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-align: center;
+    color: rgba(30, 14, 98, 1);
+
+}
+
+.dolar {
+    position: relative;
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(30, 14, 98, 1);
+    padding-top: 0px;
+    bottom: 20px;
+    right: 10px;
+}
+
+.heading-3 {
+    font-family: "DM Sans", sans-serif;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    color: rgba(21, 20, 57, 0.4);
+}
+
+.unlimited {
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(30, 14, 98, 1);
+
+}
+
+.box-1 {
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    background: rgba(235, 234, 237, 1);
+    border-radius: 6px;
+
+}
+
+.box-2 {
+    width: 20px;
+    height: 20px;
+    background: rgba(37, 218, 197, 1);
+    border-radius: 6px;
+    margin: auto;
+}
+
+.button-1 {
+    cursor: pointer;
+    height: 50px;
+    width: 230px;
+    border-radius: 100px;
+    border: none;
+    background: rgba(37, 218, 197, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    height: 50px;
+    width: 230px;
+    border-radius: 100px;
+    border: 2px solid rgba(235, 234, 237, 1);
+    background: rgba(235, 234, 237, 1);
+    color: rgba(30, 14, 98, 1);
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+}
