@@ -20,7 +20,7 @@
     width: 100%;
 }
 
-h1 {
+.table-heading {
     color: #1E0E62;
     padding-top: 30px;
     font-family: "DM Sans", sans-serif;
@@ -54,7 +54,7 @@ td {
 
 }
 
-h2 {
+.plans {
     font-family: "DM Sans", sans-serif;
     font-size: 18px;
     line-height: 28px;
